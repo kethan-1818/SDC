@@ -1,9 +1,9 @@
 # OCC Computer Science Club Website 
 You can view a preview of the site here: 
-https://computer-science-club-occ.github.io/
+https://github.com/Ankulgupta5284/SDC-CLUB-WEBSITE/blob/master/README.md?plain=1
 
 ## Getting Started
-Visit and follow instructions from <a href="https://github.com/Computer-Science-Club-OCC/Computer-Science-Club-OCC.github.io/wiki/Guide-for-Developers">Guide for Developers</a>
+Visit and follow instructions from <a href="https://github.com/Ankulgupta5284/SDC-CLUB-WEBSITE/blob/master/README.md?plain=1">Guide for Developers</a>
 
 ## Docker & Docker Compose
 Docker compose will create a containerized environment for the frontend, backend, and mongo. To quickly start the entire stack on any machine with docker:

@@ -65,7 +65,6 @@ function Events() {
 				<EventExpand
 					isExpand={isExpanded[event.id]}
 					detail={event.detail}
-					meetingUrl={event.meetingUrl}
 					images={event.images}
 				/>
 			</div>

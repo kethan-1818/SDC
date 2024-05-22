@@ -18,13 +18,13 @@ export const eventsMap = [
 	},
 	{
 		id: 2,
-		title: "Customer-focused upward-trending policy",
+		title: "Tech Memers",
 		detail:
-			"Excepturi officiis hic vero quae animi eaque eveniet facere quia. Consectetur commodi ipsa. Odio nihil eos. Totam inventore tempore eligendi iste similique dolore expedita. Expedita non molestiae dolorum pariatur itaque porro totam natus esse.",
-		date: "13",
-		month: "Jan",
-		time: "12:26:56 AM",
-		location: "Room 8230",
+			"A thrilling contest for all tech savy mind.A contest where ypu get to showcase you creativity by preparing memes related to technology",
+		date: "5-7",
+		month: "April",
+		time: "--",
+		location: "--",
 		images: [
 			{
 				id: "01",
@@ -44,13 +44,13 @@ export const eventsMap = [
 
 	{
 		id: 3,
-		title: "Programmable fault-tolerant collaboration",
+		title: "Test Sphere",
 		detail:
-			"Voluptate quos distinctio cupiditate dolor. Ipsam similique repudiandae quidem sit laboriosam blanditiis delectus quis. Illum animi eaque eaque dolores sequi. Delectus nisi in cum accusantium odit eligendi laboriosam consequatur. Quasi labore itaque consequuntur repudiandae similique exercitationem aut voluptatum ad.",
-		date: "31",
-		month: "May",
-		time: "10:31:10 PM",
-		location: "Room 4972",
+			"A mock online test which provides an excellent oppurtunity to understand the expectations of the companies and recieve feedback.",
+		date: "21",
+		month: "March",
+		time: "8 PM",
+		location: "Hackerank",
 		images: [
 			{
 				id: "01",
@@ -67,4 +67,255 @@ export const eventsMap = [
 		],
 		meetingUrl: "https://zoom.us/",
 	},
+	{
+		id: 4,
+		title: "Navigating Recession",
+		detail:
+			"AlgoUniversity in collaboration with SDC organised its flagship event CodeRush 2024.In the class Swapnil sir shared insights on how to build their personalised roadmap for intern and placement preparations.",
+		date: "8",
+		month: "Feb",
+		time: "9:30 PM",
+		location: "--",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 5,
+		title: "Battle of Styles",
+		detail:
+			"A CSS battle where participants compete against fellow developers in a friendly yet fierce challenge where the task is to recreate given design using HTML and CSS.",
+		date: "20",
+		month: "Jan",
+		time: "10 AM",
+		location: "NAB 304",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 6,
+		title: "AIVERSE",
+		detail:
+			"An electrifying showcase of coolest AI tools on the internet crafted to make your academic journey extraordinary.",
+		date: "20",
+		month: "Jan",
+		time: "10 AM",
+		location: "NAB 104",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 7,
+		title: "APECTF",
+		detail:
+			"ApeCTF a jungle of challenges and puzzles!An exhilirating journey into digital wilderness while navigating the territories of cybersecurity.",
+		date: "20",
+		month: "Jan",
+		time: "6 PM",
+		location: "Online",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 8,
+		title: "Database Design",
+		detail:
+			"An innovative database design event where we give you a problem statement and you have to create a Database(ER model) within given time.",
+		date: "21",
+		month: "Jan",
+		time: "10 AM",
+		location: "Online",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 9,
+		title: "Code Maze",
+		detail:
+			"A thrilling showdown navigating a maze of puzzles! Solve coding puzzles and logical riddles to unveil the next destination.",
+		date: "21",
+		month: "Jan",
+		time: "3 PM",
+		location: "NAB 103",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 10,
+		title: "Crack the Query",
+		detail:
+			"A SQL based coding contest where people are given some problem statements  and  table schemas in which they need to write the sql query.",
+		date: "19",
+		month: "Jan",
+		time: "10 AM",
+		location: "LABS",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 11,
+		title: "OOPS Workshop",
+		detail:
+			"A workshop which introduce the concepts of OOPS and apply them with code alonwith practising of quality problem and real world experience.",
+		date: "25",
+		month: "Nov",
+		time: "5:30 PM",
+		location: "COOPS 301",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 12,
+		title: "Weekly Web Development Series Week 2",
+		detail:
+			"Introduces JavaScript Fundamentals and provide hands on coding experience alongwith manipulating the DOM(Document Object Model)",
+		date: "19",
+		month: "Nov",
+		time: "10 AM",
+		location: "CCPD Seminar Hall",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	{
+		id: 13,
+		title: "Weekly Web Development Series Week 1",
+		detail:
+			"Provides roadmap to full stack developmnet.Get hands on experience in HTML,CSS and JS.Building your first webpage and adding interactivity to it by incorporating JavaScript.",
+		date: "5",
+		month: "Nov",
+		time: "10 AM",
+		location: "CCPD Seminar Hall",
+		images: [
+			{
+				id: "01",
+				img: "https://loremflickr.com/640/480/nature",
+			},
+			{
+				id: "02",
+				img: "https://loremflickr.com/640/480/technics",
+			},
+			{
+				id: "03",
+				img: "https://loremflickr.com/640/480/animals",
+			},
+		],
+		meetingUrl: "https://zoom.us/",
+	},
+	
 ];

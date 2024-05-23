@@ -8,11 +8,11 @@ export const eventsMap = [
 		date: "04",
 		month: "APR",
 		time: "6:00 PM",
-		location: "C301 (COOPS)",
+		location: "C301 (COOPS)",                  
 		images: [
 			{
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
+				img: "https://i.ibb.co/R6TRzgG/DBMS.jpg",
 			},
 		],
 	},
@@ -26,17 +26,9 @@ export const eventsMap = [
 		time: "--",
 		location: "--",
 		images: [
-			{
-				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+			{  
+				id:"01",
+				img: "https://i.ibb.co/4W1Zq6v/tech_memers.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -52,17 +44,9 @@ export const eventsMap = [
 		time: "8 PM",
 		location: "Hackerank",
 		images: [
-			{
+			{        
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/Btx4D7F/test-sphere.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -102,18 +86,11 @@ export const eventsMap = [
 		time: "10 AM",
 		location: "NAB 304",
 		images: [
-			{
+			{         
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
+				img: "https://i.ibb.co/XjsX08w/bettelofcycle.jpg",
 			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
-			},
+			
 		],
 		meetingUrl: "https://zoom.us/",
 	},
@@ -127,17 +104,9 @@ export const eventsMap = [
 		time: "10 AM",
 		location: "NAB 104",
 		images: [
-			{
+			{        
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/cgY0HkL/AIVERSE.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -152,18 +121,10 @@ export const eventsMap = [
 		time: "6 PM",
 		location: "Online",
 		images: [
-			{
+			{        
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
-			},
+				img: "https://i.ibb.co/YPpWDGF/Apectf.jpg",
+			}, 
 		],
 		meetingUrl: "https://zoom.us/",
 	},
@@ -179,15 +140,7 @@ export const eventsMap = [
 		images: [
 			{
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/qm3kWmN/DBMS.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -203,16 +156,8 @@ export const eventsMap = [
 		location: "NAB 103",
 		images: [
 			{
-				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				id: "01",       
+				img: "https://i.ibb.co/MBbdRcn/codemaze.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -229,16 +174,8 @@ export const eventsMap = [
 		images: [
 			{
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
-			},
+				img: "https://i.ibb.co/zNr6y4q/crakeQuery.jpg",
+			},       
 		],
 		meetingUrl: "https://zoom.us/",
 	},
@@ -252,17 +189,9 @@ export const eventsMap = [
 		time: "5:30 PM",
 		location: "COOPS 301",
 		images: [
-			{
+			{           
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/yy07F3J/oopsWorkshop.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -277,17 +206,9 @@ export const eventsMap = [
 		time: "10 AM",
 		location: "CCPD Seminar Hall",
 		images: [
-			{
+			{           
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/DRMSqcB/wwsWeek2.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",
@@ -302,17 +223,9 @@ export const eventsMap = [
 		time: "10 AM",
 		location: "CCPD Seminar Hall",
 		images: [
-			{
+			{ 
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/FVhzCf8/wwsWeek1.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",

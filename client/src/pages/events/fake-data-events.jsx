@@ -63,15 +63,7 @@ export const eventsMap = [
 		images: [
 			{
 				id: "01",
-				img: "https://loremflickr.com/640/480/nature",
-			},
-			{
-				id: "02",
-				img: "https://loremflickr.com/640/480/technics",
-			},
-			{
-				id: "03",
-				img: "https://loremflickr.com/640/480/animals",
+				img: "https://i.ibb.co/DQPVJx7/navigating.jpg",
 			},
 		],
 		meetingUrl: "https://zoom.us/",

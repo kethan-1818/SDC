@@ -67,40 +67,15 @@ function NavigationBar() {
 							}
 							id={isMobile ? "responsive-item" : ""}
 						>
-							<div className="group dropdown">
-								<div className="dropdown-content">
-									<Link
-										className="dropdown-link"
-										to="/homepage"
-										state={{ option: 1 }}
-									>
-										About
-									</Link>
-									<Link
-										className="dropdown-link"
-										to="/homepage"
-										state={{ option: 2 }}
-									>
-										News
-									</Link>
-									<Link
-										className="dropdown-link"
-										to="/homepage"
-										state={{ option: 3 }}
-									>
-										Contact Us
-									</Link>
-								</div>
-								<Link
-									className={
-										isMobile ? "navbar-link responsive-link" : "navbar-link"
-									}
-									id={isMobile ? "responsive-link" : ""}
-									to="/homepage"
-								>
-									Home
-								</Link>
-							</div>
+							<Link
+								className={
+									isMobile ? "navbar-link responsive-link" : "navbar-link"
+								}
+								id={isMobile ? "responsive-link" : ""}
+								to="/homepage"
+							>
+								Home
+							</Link>
 						</li>
 						<li
 							className={

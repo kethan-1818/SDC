@@ -1,5 +1,5 @@
 .navbar {
-	@apply flex relative justify-between bg-[#ff9617] text-white h-14;
+	@apply flex relative justify-between bg-[#17A8FF] text-white h-14;
 }
 
 .navbrand {

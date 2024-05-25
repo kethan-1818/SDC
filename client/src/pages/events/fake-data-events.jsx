@@ -20,7 +20,7 @@ export const eventsMap = [
 		id: 2,
 		title: "Tech Memers",
 		detail:
-			"A thrilling contest for all tech savy mind.A contest where ypu get to showcase you creativity by preparing memes related to technology",
+			"A thrilling contest for all tech savy mind.A contest where you get to showcase you creativity by preparing memes related to technology",
 		date: "5-7",
 		month: "April",
 		time: "--",

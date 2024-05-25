@@ -43,12 +43,6 @@ function EventDetails({ detail, meetingUrl }) {
 	return (
 		<div className="event-details">
 			<p>👨‍🔬 {detail}</p>
-			<p>
-				👉 Zoom link:
-				<a id="meeting-link" href={meetingUrl}>
-					{meetingUrl}
-				</a>
-			</p>
 			<p>🥳🥳🥳 Check out our posters!!!</p>
 		</div>
 	);

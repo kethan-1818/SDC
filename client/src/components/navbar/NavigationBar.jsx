@@ -153,7 +153,7 @@ function NavigationBar() {
 								<div className="dropdown-content">
 									<Link
 										className="dropdown-link"
-										to="/resources"
+										to="/domains"
 										state={{ domains: 1 }}
 									>
 										CODING

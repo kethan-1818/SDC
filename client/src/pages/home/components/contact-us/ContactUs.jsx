@@ -1,7 +1,6 @@
 import {
-	Facebook,
+	LinkedIn,
 	Instagram,
-	Discord,
 	Mail,
 } from "../../../../asset/icons/icons";
 import "./contact-us.css";
@@ -14,23 +13,17 @@ function ContactUs() {
 			</div>
 			<div className="contact-content">
 				<div className="icon-list">
-					<a href="#facebook" className="link">
+					<a href="#linkedin" className="link">
 						<div className="circle">
-							<Facebook className="icon" />
+							<LinkedIn className="icon" />
 						</div>
-						<span className="tooltip">Facebook</span>
+						<span className="tooltip">LinkedIn</span>
 					</a>
 					<a href="#Instagram" className="link">
 						<div className="circle">
 							<Instagram className="icon" />
 						</div>
 						<span>Instagram</span>
-					</a>
-					<a href="#Discord" className="link">
-						<div className="circle">
-							<Discord className="icon" />
-						</div>
-						<span>Discord</span>
 					</a>
 					<a href="#Gmail" className="link">
 						<div className="circle">

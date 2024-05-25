@@ -154,20 +154,20 @@ function NavigationBar() {
 									<Link
 										className="dropdown-link"
 										to="/resources"
-										state={{ option: 1 }}
+										state={{ domains: 1 }}
 									>
 										CODING
 									</Link>
 									<Link
 										className="dropdown-link"
-										to="/resources"
+										to="/domains"
 										state={{ option: 2 }}
 									>
 								     DESIGN
 									</Link>
 									<Link
 										className="dropdown-link"
-										to="/resources"
+										to="/domains"
 										state={{ option: 3 }}
 									>
 										AI ML
@@ -175,8 +175,8 @@ function NavigationBar() {
 
 									<Link
 										className="dropdown-link"
-										to="/resources"
-										state={{ option: 3 }}
+										to="/domains"
+										state={{ option: 4 }}
 									>
 										Cyber Security
 									</Link>
@@ -186,7 +186,7 @@ function NavigationBar() {
 										isMobile ? "navbar-link responsive-link" : "navbar-link"
 									}
 									id={isMobile ? "responsive-link" : ""}
-									to="/resources"
+									to="/domains"
 									state={{ option: 1 }}
 								>
 									Domains

@@ -140,6 +140,62 @@ function NavigationBar() {
 								</Link>
 							</div>
 						</li>
+                     
+					    <li
+							className={
+								isMobile
+									? "group navbar-item responsive-item"
+									: "group navbar-item"
+							}
+							id={isMobile ? "responsive-item" : ""}
+						>
+							<div className="dropdown">
+								<div className="dropdown-content">
+									<Link
+										className="dropdown-link"
+										to="/resources"
+										state={{ option: 1 }}
+									>
+										CODING
+									</Link>
+									<Link
+										className="dropdown-link"
+										to="/resources"
+										state={{ option: 2 }}
+									>
+								     DESIGN
+									</Link>
+									<Link
+										className="dropdown-link"
+										to="/resources"
+										state={{ option: 3 }}
+									>
+										AI ML
+									</Link>
+
+									<Link
+										className="dropdown-link"
+										to="/resources"
+										state={{ option: 3 }}
+									>
+										Cyber Security
+									</Link>
+								</div>
+								<Link
+									className={
+										isMobile ? "navbar-link responsive-link" : "navbar-link"
+									}
+									id={isMobile ? "responsive-link" : ""}
+									to="/resources"
+									state={{ option: 1 }}
+								>
+									Domains
+								</Link>
+							</div>
+						</li>
+
+
+
 					</ul>
 				</div>
 			)}

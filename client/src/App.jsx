@@ -7,6 +7,7 @@ import { ErrorState, LoadingState } from "./components/states";
 const Homepage = lazy(() => import("./pages/home/Homepage"));
 const Events = lazy(() => import("./pages/events/Events"));
 const Resources = lazy(() => import("./pages/resources/Resources"));
+const Domains=lazy(() => import("./pages/domains/Domain"))
 
 function Client() {
 	return (
@@ -16,6 +17,7 @@ function Client() {
 				<Route path="/homepage" element={<Homepage />} />
 				<Route path="/events" element={<Events />} />
 				<Route path="/resources" element={<Resources />} />
+				<Route path="/domains" element={<Domains />} />
 				<Route path="*" element={<Navigate to="/homepage" replace />} />
 			</Routes>
 		</>

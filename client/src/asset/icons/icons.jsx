@@ -1,24 +1,13 @@
-export function Discord(props) {
+export function LinkedIn(props) {
 	return (
-		<a href="https://discord.com" target="_blank" rel="noopener noreferrer">
-		<svg width="1em" height="1em" viewBox="0 0 24 24" className={props.className} xmlns="http://www.w3.org/2000/svg" >
-    <path
-      fill="currentColor"
-      d="M4.98 3.5C4.98 5 3.77 6.2 2.26 6.2H2.24C0.73 6.2 0 5 0 3.5C0 2.02 1.21 0.8 2.74 0.8C4.25 0.8 5 2.02 5 3.5ZM0.44 23.5H4.12V7.74H0.44V23.5ZM8.84 11.98C8.84 10.18 8.9 8.5 8.9 7.38H5.36V7.74C5.98 7.28 6.7 6.98 7.5 6.98C9.98 6.98 11.28 8.5 11.28 11.24V23.5H14.98V11.74C14.98 7.98 13.12 6 9.72 6C8.14 6 7.28 6.72 6.82 7.18V7.24H5.36V7.74H5.34C5.34 7.72 5.34 7.72 5.34 7.74H5.36C5.4 7.76 5.42 7.78 5.44 7.8V23.5H8.84V11.98Z"
-    />
-  </svg>
-		</a>
-	);
-}
-
-export function Facebook(props) {
-	return (
+		<a href="https://www.linkedin.com/company/software-development-club-nit-warangal/?originalSubdomain=in" target="_blank" rel="noopener noreferrer">
 		<svg width="1em" height="1em" viewBox="0 0 24 24" className={props}>
 			<path
 				fill="currentColor"
 				d="M13.397 20.997v-8.196h2.765l.411-3.209h-3.176V7.548c0-.926.258-1.56 1.587-1.56h1.684V3.127A22.336 22.336 0 0 0 14.201 3c-2.444 0-4.122 1.492-4.122 4.231v2.355H7.332v3.209h2.753v8.202h3.312z"
 			/>
 		</svg>
+		</a>
 	);
 }
 

@@ -9,7 +9,9 @@
     border-radius: 10px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     position: relative;
-    margin-top: 500px; /* Add margin to separate from slider */
+    margin-top: 400px; /* Add margin to separate from slider */
+    margin-bottom: 70px; /* Add margin to separate from slider */
+  
   }
   
   .contact-container p {
@@ -109,11 +111,20 @@
     .contact-content {
       padding: 0;
     }
+    .contact-container {
+      margin-top: -120px;
+      margin-bottom: -50px;
+    }    
+
   }
   
   @media only screen and (max-width: 548px) {
     .contact-header h1 {
       font-size: 24px;
+    }
+    .contact-container {
+      margin-top: 20px;
+      margin-bottom: 10px;
     }
   }
   

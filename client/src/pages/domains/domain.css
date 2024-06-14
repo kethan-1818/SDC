@@ -49,19 +49,19 @@
 }
 .resources-tabs button:hover {
 	color: #2a2c2e;
-	background-color: #ff9617;
+	background-color: rgb(33, 150, 243);
 }
 
 .resources-tabs button.active {
-	background-color: #5e20e4;
+	background-color: rgb(33, 150, 243);
 	color: #212121;
 	transition: all 0.3s ease-in-out;
-	box-shadow: 0px 3px 0px 0px rgb(90, 39, 244);
+	box-shadow: 0px 3px 0px 0px rgb(33, 150, 243);
 }
 
 .resources-tabs button:hover {
 	transition: all 0.3s ease-in-out;
-	box-shadow: 0px 2px 0px 0px rgb(255, 150, 23, 0.8);
+	box-shadow: 0px 2px 0px 0px rgb(33, 150, 243);
 }
 
 /* Tab content */
@@ -114,7 +114,7 @@
 }
 
 .resource-list-title:hover {
-	color: #ff9617;
+	color: rgb(33, 150, 243);
 	z-index: 1;
 	text-decoration: none;
 }
@@ -160,6 +160,6 @@
 
 /* Formats links */
 a.resource-link {
-	color: #ff9617;
+	color: rgb(33, 150, 243);
 	padding: 0em;
 }
